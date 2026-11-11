@@ -124,3 +124,22 @@ For issues and questions:
 - [n8n Documentation](https://docs.n8n.io/)
 - [Metis AI](https://metisai.ir)
 - [n8n Community Nodes](https://docs.n8n.io/integrations/community-nodes/)
+
+---
+
+<a id="فارسی"></a>
+
+<div dir="rtl">
+
+## فارسی
+
+این پکیج، نودهای کامیونیتی n8n برای اتصال به پلتفرم هوش مصنوعی Metis است (برگرفته از `Metis-Inc/n8n-nodes-metis` با مجوز MIT).
+
+- **Metis: Create Generation** — ساخت خروجی هوش مصنوعی با انتخاب پویای ارائه‌دهنده و مدل
+- **Metis: Message Chatbot** — ساخت یا ادامهٔ جلسهٔ گفتگو و ارسال پیام به چت‌بات‌های Metis
+
+**پیش‌نیازها:** n8n نسخهٔ ۱.۰.۰ یا بالاتر و کلید API ی Metis (در بخش Credentials ثبت می‌شود، نه در کد).
+
+**نصب:** `npm install n8n-nodes-metis` یا کلون کردن مخزن، `npm install`، `npm run build` و کپی پوشهٔ `dist` به پوشهٔ نودهای سفارشی n8n.
+
+</div>
